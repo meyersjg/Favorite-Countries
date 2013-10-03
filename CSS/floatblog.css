@@ -3,12 +3,15 @@ h1 {font-family: arial;
     color:#a7caff;
     text-shadow: 1px 1px #22ff1a;
     text-align: center;
-    border-bottom: 7px solid #22ff1a;}
+    border-bottom: 7px solid #22ff1a;
+    margin-bottom: -20px;}
 
 h2 {font-size: 40px;
     font-family: arial;
     color: #a7caff;
-    text-shadow: 1px 1px #22ff1a;}
+    text-shadow: 1px 1px #22ff1a;
+    width: 300px;
+    text-align: center;}
 
 .countries {font-family: arial;
           font-size: 20px;
@@ -21,4 +24,5 @@ img {float: left;
       margin: 0px 10px 30px 10px;}
 
 body {background-color: #6c6c6c}
+
 
