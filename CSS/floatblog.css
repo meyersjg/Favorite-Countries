@@ -1,0 +1,24 @@
+h1 {font-family: arial;
+    font-size: 50px;
+    color:#a7caff;
+    text-shadow: 1px 1px #22ff1a;
+    text-align: center;
+    border-bottom: 7px solid #22ff1a;}
+
+h2 {font-size: 40px;
+    font-family: arial;
+    color: #a7caff;
+    text-shadow: 1px 1px #22ff1a;}
+
+.countries {font-family: arial;
+          font-size: 20px;
+          text-shadow: .75px .75px #22ff1a;
+          color: white;
+          border-bottom: 3px solid #22ff1a;
+          float: right;}
+
+img {float: left;
+      margin: 0px 10px 30px 10px;}
+
+body {background-color: #6c6c6c}
+
