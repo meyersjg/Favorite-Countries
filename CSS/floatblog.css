@@ -25,4 +25,9 @@ img {float: left;
 
 body {background-color: #6c6c6c}
 
+#day {font-size: 25px;}
 
+#link {text-align: center;
+      padding-top: 8px;
+      font-size: 20px;
+      color: red;}
