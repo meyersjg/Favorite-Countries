@@ -3,22 +3,25 @@ h1 {font-family: arial;
     color:#a7caff;
     text-shadow: 1px 1px #22ff1a;
     text-align: center;
-    border-bottom: 7px solid #22ff1a;
+    border-bottom: 7px double #22ff1a;
     margin-bottom: -20px;}
 
 h2 {font-size: 40px;
     font-family: arial;
+    font-style: italic;
     color: #a7caff;
     text-shadow: 1px 1px #22ff1a;
     width: 300px;
     text-align: center;}
 
-.countries {font-family: arial;
+.countries {font-family: "courier new";
           font-size: 20px;
           text-shadow: .75px .75px #22ff1a;
+          line-height: 1.2em;
           color: white;
-          border-bottom: 3px solid #22ff1a;
-          float: right;}
+          border-bottom: 3px double  #22ff1a;
+          float: right;
+          text-indent: 15px;}
 
 img {float: left;
       margin: 0px 10px 30px 10px;}
@@ -31,3 +34,9 @@ body {background-color: #6c6c6c}
       padding-top: 8px;
       font-size: 20px;
       color: red;}
+
+p:first-letter {font-size: 40px;}
+
+a:visited {color:blue;}
+a:link {text-decoration: none;}
+a:hover {color: #22ff1a;}
