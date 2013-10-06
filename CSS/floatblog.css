@@ -1,4 +1,4 @@
-h1 {font-family: arial;
+h1 {font-family: "tahoma";
     font-size: 50px;
     color:#a7caff;
     text-shadow: 1px 1px #22ff1a;
@@ -14,8 +14,9 @@ h2 {font-size: 40px;
     width: 300px;
     text-align: center;}
 
-.countries {font-family: "courier new";
+.countries {font-family: "verdana";
           font-size: 20px;
+          font-weight: normal;
           text-shadow: .75px .75px #22ff1a;
           line-height: 1.2em;
           color: white;
